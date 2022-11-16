@@ -8,6 +8,7 @@ const Movie = (props) => {
         Type: type,
         Poster: poster
     } = props;
+
     return (
         <div id={id} className="card">
             <div className='card-image waves-effect waves-block waves-light'>
