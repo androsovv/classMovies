@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-class-movies/static/css/main.da317b7e.css",
-    "main.js": "/react-class-movies/static/js/main.d9fb0b4f.js",
-    "index.html": "/react-class-movies/index.html",
-    "main.da317b7e.css.map": "/react-class-movies/static/css/main.da317b7e.css.map",
-    "main.d9fb0b4f.js.map": "/react-class-movies/static/js/main.d9fb0b4f.js.map"
+    "main.css": "/classMovies/static/css/main.da317b7e.css",
+    "main.js": "/classMovies/static/js/main.d9fb0b4f.js",
+    "index.html": "/classMovies/index.html",
+    "main.da317b7e.css.map": "/classMovies/static/css/main.da317b7e.css.map",
+    "main.d9fb0b4f.js.map": "/classMovies/static/js/main.d9fb0b4f.js.map"
   },
   "entrypoints": [
     "static/css/main.da317b7e.css",
