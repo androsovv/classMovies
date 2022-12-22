@@ -2,7 +2,7 @@
   "name": "web-strom-first-try",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://androsovv.github.io/react-class-movies",
+  "homepage": "https://androsovv.github.io/classMovies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
